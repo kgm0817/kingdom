@@ -1,2 +1,2 @@
 # kingdom
-hi
+opgg 팀입니다
